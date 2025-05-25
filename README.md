@@ -40,4 +40,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-<!-- GitAds-Verify: K6EOR8KP7CZKBO799UMLLFFZERB9MBRB -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/angular-material-dashboard@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/angular-material-dashboard@github)
+
+
